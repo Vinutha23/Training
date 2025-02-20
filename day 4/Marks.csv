@@ -1,0 +1,101 @@
+student_id,Name,Math,Science,English,Total,Grade
+1,Izabel Geraldini,6,66,0,76,array
+2,Carri Gilcrist,67,100,58,83,Focused
+3,Osmund Staite,66,67,22,57,neural-net
+4,Mireielle Ghelardi,92,78,12,48,24/7
+5,Antonella Markel,37,67,80,61,systematic
+6,Fran Ramsdell,46,82,84,10,groupware
+7,Evangelia Hemphill,88,99,17,21,help-desk
+8,Cesar Gyngyll,44,57,42,85,Diverse
+9,Elayne Van Arsdall,4,42,87,5,logistical
+10,Blanca Karadzas,0,24,8,87,solution-oriented
+11,Lorens Oakenfull,71,49,98,21,data-warehouse
+12,Rhetta Humm,90,96,63,21,composite
+13,Kelsey Huckerby,25,83,79,50,zero administration
+14,Kenton Alenin,40,10,94,68,throughput
+15,Michaela Bereford,64,66,30,7,Multi-lateral
+16,Elvyn Jizhaki,63,60,39,39,moderator
+17,Laney Bonallack,40,59,13,54,customer loyalty
+18,Biddie Corrin,88,10,65,75,orchestration
+19,Hattie Champley,73,50,90,25,Reverse-engineered
+20,Bondy Tother,78,86,36,14,focus group
+21,Fletcher Wilfling,17,89,36,84,function
+22,Averell Broun,59,1,48,6,monitoring
+23,Lesley McKinnon,67,82,93,27,Multi-lateral
+24,Illa Farlow,67,40,86,46,incremental
+25,Tanitansy Bootell,39,82,34,95,stable
+26,Vittorio Greser,38,53,61,21,global
+27,Rriocard Rekes,66,0,6,41,contingency
+28,Ragnar Barnby,56,14,51,38,neural-net
+29,Vachel Dovydenas,80,3,77,92,methodical
+30,Elyssa Cumberlidge,50,92,75,8,secondary
+31,Felicle Kiljan,86,65,17,13,Integrated
+32,Bernete Dudmesh,97,95,10,52,data-warehouse
+33,Claudian Bayford,17,62,94,80,context-sensitive
+34,Tatum Packman,86,63,27,9,instruction set
+35,Candis Mushart,58,70,53,65,4th generation
+36,Sonnie Sommerville,28,69,14,69,value-added
+37,Lance Mustoo,79,34,100,86,encryption
+38,Rosco Heald,63,89,17,79,Robust
+39,Dorette Caltun,99,60,49,32,Balanced
+40,Nikolos Danielovitch,41,44,94,72,24/7
+41,Aura Orleton,24,71,52,39,upward-trending
+42,Jabez Senten,60,58,4,64,time-frame
+43,Yancey Romanin,68,24,22,15,Cross-group
+44,Carrol Prott,31,2,62,71,cohesive
+45,Holly-anne Beckey,36,84,15,52,scalable
+46,Margarette Dayborne,8,37,24,76,composite
+47,Weider Bendel,87,14,19,30,Quality-focused
+48,Luca Duchant,31,23,10,84,Polarised
+49,Samuel Burwell,21,42,75,87,didactic
+50,Inglis Pendre,92,65,45,30,6th generation
+51,Herminia Blessed,26,32,57,4,interface
+52,Prisca Barrick,48,75,53,83,intangible
+53,Onfroi Hollingdale,91,77,43,82,Re-contextualized
+54,Dallis Gianiello,39,52,72,40,Synergized
+55,Jilli Schreurs,93,33,41,86,User-friendly
+56,Alyosha Joint,58,9,22,43,Customizable
+57,Dee Minucci,63,74,56,44,Mandatory
+58,Royal Aleksankov,26,33,74,73,value-added
+59,Tandy Rozanski,67,47,62,50,access
+60,Gaby Stuttman,77,82,91,45,User-centric
+61,Kiley Franzen,1,19,43,18,scalable
+62,Ezequiel Hawlgarth,71,32,80,48,infrastructure
+63,Steve Witard,52,17,69,16,internet solution
+64,Carita Soppit,47,48,70,46,coherent
+65,Kerianne Quirke,13,92,90,77,transitional
+66,Chrissy MacPaik,56,95,47,76,system engine
+67,Hannie Annand,12,0,46,53,capacity
+68,Gail Risebrow,33,12,14,70,Seamless
+69,Rogerio Filewood,60,4,0,70,knowledge base
+70,Marwin Hawksworth,30,36,44,17,logistical
+71,Brigham Coling,28,74,80,59,secured line
+72,Billie Gettens,88,38,36,72,interface
+73,Raffarty Banham,73,43,62,52,Advanced
+74,Claude Shobrook,98,68,69,6,implementation
+75,Taddeo Gibard,77,14,75,53,Exclusive
+76,Zerk Baselli,55,11,38,15,Right-sized
+77,Addison Moyler,96,20,1,0,Distributed
+78,Rickey Grandisson,29,4,1,79,Phased
+79,Tonye Parry,83,26,90,78,Up-sized
+80,Julio Langcaster,78,89,74,38,discrete
+81,Reinhard Busch,89,74,91,76,software
+82,Rhianna Selvey,60,83,81,18,reciprocal
+83,Fidelia Fairbard,33,100,47,92,Optional
+84,Phillipp Lakey,72,95,60,72,Vision-oriented
+85,Sondra Rojahn,32,100,2,45,Universal
+86,Adan Pietrowski,24,86,87,77,concept
+87,Gabie Shrawley,4,29,28,0,attitude
+88,Lorilyn Salzberger,30,92,78,17,intangible
+89,Ossie Fipp,64,10,65,86,asynchronous
+90,Judith Adolf,50,67,49,38,projection
+91,Lula Minton,61,23,53,83,global
+92,Joyous Ough,9,41,66,18,core
+93,Carlotta Hocking,58,10,92,26,Synergized
+94,Ashli Meryett,65,47,97,84,Cloned
+95,Cleavland Hanwell,4,66,90,2,next generation
+96,Karrie Hartwright,67,52,1,59,Horizontal
+97,Floyd Tofanini,95,8,22,73,Organic
+98,Antin Roswarne,52,87,93,89,data-warehouse
+99,Chen Glewe,13,21,99,89,open architecture
+100,Corey Comino,92,28,44,82,protocol
